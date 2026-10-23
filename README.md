@@ -8,6 +8,6 @@ Browse Bengaluru gyms by neighbourhood, search gym names and areas, tap phone nu
 
 ## Open the directory
 
-[Visit Bengaluru Gym Finder](https://ainn5.github.io/BangaloreGyms/)
+[Visit BangaloreGyms](https://ainn5.github.io/BangaloreGyms/)
 
-This site is published from this `BangaloreGyms` repository using GitHub Pages.
+The directory is published from this repository using GitHub Pages.
