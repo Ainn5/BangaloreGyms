@@ -1,6 +1,6 @@
 # BangaloreGyms
 
-**Gym directory website:** https://ainn5.github.io/ShoppingDirectory/gyms/
+**Public gym directory:** https://ainn5.github.io/BangaloreGyms/
 
 Browse Bengaluru gyms by neighbourhood, search gym names and areas, tap phone numbers to call, and open map directions.
 
@@ -8,6 +8,6 @@ Browse Bengaluru gyms by neighbourhood, search gym names and areas, tap phone nu
 
 ## Open the directory
 
-[Visit Bengaluru Gym Finder](https://ainn5.github.io/ShoppingDirectory/gyms/)
+[Visit Bengaluru Gym Finder](https://ainn5.github.io/BangaloreGyms/)
 
-> The directory is hosted in the ShoppingDirectory GitHub Pages site. This repository links to the published directory.
+This site is published from this `BangaloreGyms` repository using GitHub Pages.
